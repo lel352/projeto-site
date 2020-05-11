@@ -3,4 +3,4 @@
 
 Conflito entre duas branch é quando elas mexem no mesmo arquivo.
  
-Aula de git e Github com Github Deskotp Curso em Video 
+Aula de git e Github com Github Deskotp do Curso em Video 
